@@ -16,7 +16,7 @@
         "-XX:CompileThreshold=1500",
         "--add-opens=java.desktop/sun.awt=ALL-UNNAMED"
     ],
-    "buildCommit": "686a6dd28a00ed661813aa04fd00d18d8f5fb6f9",
+    "buildCommit": "4fafed47f7c2f04882ff02cea260bd620c22ccd0",
     "launcherJvm11Arguments": [
         "-XX:+DisableAttachMechanism",
         "-Drunelite.launcher.nojvm=true",
@@ -38,8 +38,8 @@
         "guava-30.1.1-jre.jar": "44ce229ce26d880bf3afc362bbfcec34d7e6903d195bbb1db9f3b6e0d9834f06",
         "lwjgl-3.3.2.jar": "f8016606e74f3cafd63eae07b1331f903f999c9f40726c838399a144c3809217",
         "commons-lang3-3.11.jar": "4ee380259c068d1dbe9e84ab52186f2acd65de067ec09beff731fca1697fdb16",
-        "http-api-1.0.19-EXPERIMENTAL.jar": "247aa667e94caa7e698b6cc431778a6e77802bf93b18b3a47b72a5cd49f590dd",
-        "runelite-client-1.0.19-EXPERIMENTAL.jar": "8a78015c7e029bc565b5e5b2140e01562ee98b2944d4ddd09909192eee269bc7",
+        "http-api-1.0.19-EXPERIMENTAL.jar": "024506deefb4b4d5cbd494f4137f973a624248e9ae034ac28f73731f62b8219a",
+        "runelite-client-1.0.19-EXPERIMENTAL.jar": "e07df82fac50e185ca6f274c63416f5d870acae63a310aafd952c4b8cea391ba",
         "lwjgl-3.3.2-natives-windows-x86.jar": "21e6f5c1c68a171398daf7785ffb2797da89242f90d19e24236563f7c0b1f7e0",
         "engine.io-client-1.0.0.jar": "191a5c2d777c22d258d414f94ff96a6620a93a38beec29a63c2c172794c87f0f",
         "rlawt-1.4.jar": "1efad07ade0ca6231c9870718f318950cce2e1c8da8b91e317067b616ce14a36",
@@ -167,25 +167,25 @@
     "projectVersion": "1.0.19-EXPERIMENTAL",
     "artifacts": [
         {
-            "path": "https://raw.githubusercontent.com/jbx5/devious-hosting/master/experimental/runescape-api-1.0.19-EXPERIMENTAL.jar",
+            "path": "https://raw.githubusercontent.com/fred4106/devious-hosting/master/experimental/runescape-api-1.0.19-EXPERIMENTAL.jar",
             "size": 131852,
             "name": "runescape-api-1.0.19-EXPERIMENTAL.jar",
             "hash": "897f51e57ebaa20279d31883a826291aa4c0b00d8d2d279ce68164bb9ab79cce"
         },
         {
-            "path": "https://raw.githubusercontent.com/jbx5/devious-hosting/master/experimental/runelite-api-1.0.19-EXPERIMENTAL.jar",
+            "path": "https://raw.githubusercontent.com/fred4106/devious-hosting/master/experimental/runelite-api-1.0.19-EXPERIMENTAL.jar",
             "size": 1467631,
             "name": "runelite-api-1.0.19-EXPERIMENTAL.jar",
             "hash": "77e50b0662e64eeff8197c61d74ad61e80319408b842285b4509e1ed2e6f6000"
         },
         {
-            "path": "https://raw.githubusercontent.com/jbx5/devious-hosting/master/experimental/http-api-1.0.19-EXPERIMENTAL.jar",
+            "path": "https://raw.githubusercontent.com/fred4106/devious-hosting/master/experimental/http-api-1.0.19-EXPERIMENTAL.jar",
             "size": 95240,
             "name": "http-api-1.0.19-EXPERIMENTAL.jar",
-            "hash": "247aa667e94caa7e698b6cc431778a6e77802bf93b18b3a47b72a5cd49f590dd"
+            "hash": "024506deefb4b4d5cbd494f4137f973a624248e9ae034ac28f73731f62b8219a"
         },
         {
-            "path": "https://raw.githubusercontent.com/jbx5/devious-hosting/master/experimental/runelite-jshell-1.0.19-EXPERIMENTAL.jar",
+            "path": "https://raw.githubusercontent.com/fred4106/devious-hosting/master/experimental/runelite-jshell-1.0.19-EXPERIMENTAL.jar",
             "size": 22950,
             "name": "runelite-jshell-1.0.19-EXPERIMENTAL.jar",
             "hash": "45263cf73d03229aa00d27eaf03d29bb8f93cd700a6ce8bff10bef66b0d87c33"
@@ -605,10 +605,10 @@
             "hash": "055be110a570f9cda3eba8d70a006ff46c77a048bc67868524879211c48b330a"
         },
         {
-            "path": "https://raw.githubusercontent.com/jbx5/devious-hosting/master/experimental/runelite-client-1.0.19-EXPERIMENTAL.jar",
-            "size": 11977590,
+            "path": "https://raw.githubusercontent.com/fred4106/devious-hosting/master/experimental/runelite-client-1.0.19-EXPERIMENTAL.jar",
+            "size": 11977589,
             "name": "runelite-client-1.0.19-EXPERIMENTAL.jar",
-            "hash": "8a78015c7e029bc565b5e5b2140e01562ee98b2944d4ddd09909192eee269bc7"
+            "hash": "e07df82fac50e185ca6f274c63416f5d870acae63a310aafd952c4b8cea391ba"
         }
     ]
 }
